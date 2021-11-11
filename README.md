@@ -2,11 +2,17 @@
 
 This is a console application written in C++ that simulates a housing queue.
 
+## Functionality
+
+The housing queue can be saved to / loaded from file. Persons can be added to or removed from the queue.
+The user can view the whole queue or a person in the queue. The user can offer housing to the person
+who is first in queue.
+
 ## Purpose
 
-My goal with this project has been to practice using linked lists and iterators and to understand how
+My goal with this project has been to practice using **linked lists** and **iterators** and to understand how
 a queue can be built as an abstract data type. 
-Creating this project has taught me how nodes and pointers/iterators can be used when working on a dynamically linked list.
+Creating this project has taught me how **nodes** and **pointers/iterators** can be used when working on a **dynamically linked list**.
 I also learned how to build a queue as a class.
 
 
